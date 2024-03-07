@@ -1,0 +1,35 @@
+/* .box{
+    height: 100vh;
+    
+    
+} */
+
+
+
+
+.container{
+    
+        display: flex;
+        height: 90vh;
+        align-items: center;
+        justify-content: center;
+    
+      
+}
+
+.content__block {
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #2e2e2e;
+    border-radius: 8px;
+    background-color: #3f3f3f;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+  }
+/* .registr{
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-align: center;
+} */

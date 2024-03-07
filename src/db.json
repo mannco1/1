@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": "d07b",
+      "title": "",
+      "image": "",
+      "content": ""
+    }
+  ],
+  "users": [
+    {
+      "id": "102f",
+      "email": "test@mail.ru",
+      "password": "12345678"
+    },
+    {
+      "id": "8378",
+      "email": "fff@mail.ru",
+      "password": "21314141414"
+    },
+    {
+      "id": "88e4",
+      "email": "f.@mail.ru",
+      "password": "Dddddddddddddddddddddd"
+    }
+  ]
+}
